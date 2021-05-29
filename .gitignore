@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/gradle-build/
+/gradle-build/AliyunListPlayer/intermediates/classes/debug/
+/gradle-build/AliyunLiveShiftPlayer/intermediates/classes/debug/
+/gradle-build/Aliyunplayer/AlivcPlayerTools/intermediates/classes/debug/
+/gradle-build/Aliyunplayer/player_demo/intermediates/classes/debug/
+/gradle-build/AliyunPlayerBase/intermediates/classes/debug/
+/gradle-build/AliyunVideoCommon/intermediates/classes/debug/
+/gradle-build/app/intermediates/classes/debug/
+/gradle-build/zxing/intermediates/classes/debug/

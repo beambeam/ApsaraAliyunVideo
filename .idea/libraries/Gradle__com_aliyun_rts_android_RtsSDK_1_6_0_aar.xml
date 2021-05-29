@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.rts.android:RtsSDK:1.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RtsSDK-1.6.0.aar/f98d12e98745ad0c0ee119402adc0e77/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RtsSDK-1.6.0.aar/f98d12e98745ad0c0ee119402adc0e77/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RtsSDK-1.6.0.aar/f98d12e98745ad0c0ee119402adc0e77/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RtsSDK-1.6.0.aar/f98d12e98745ad0c0ee119402adc0e77/jars/libs/RtsNetSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
