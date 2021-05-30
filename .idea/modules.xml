@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApsaraVideoPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/ApsaraVideoPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AliyunListPlayer/ApsaraVideoPlayer.AliyunListPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/AliyunListPlayer/ApsaraVideoPlayer.AliyunListPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AliyunLiveShiftPlayer/ApsaraVideoPlayer.AliyunLiveShiftPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/AliyunLiveShiftPlayer/ApsaraVideoPlayer.AliyunLiveShiftPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AliyunPlayerBase/ApsaraVideoPlayer.AliyunPlayerBase.iml" filepath="$PROJECT_DIR$/.idea/modules/AliyunPlayerBase/ApsaraVideoPlayer.AliyunPlayerBase.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AliyunVideoCommon/ApsaraVideoPlayer.AliyunVideoCommon.iml" filepath="$PROJECT_DIR$/.idea/modules/AliyunVideoCommon/ApsaraVideoPlayer.AliyunVideoCommon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aliyunplayer/ApsaraVideoPlayer.Aliyunplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/Aliyunplayer/ApsaraVideoPlayer.Aliyunplayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aliyunplayer/AlivcPlayerTools/ApsaraVideoPlayer.Aliyunplayer.AlivcPlayerTools.iml" filepath="$PROJECT_DIR$/.idea/modules/Aliyunplayer/AlivcPlayerTools/ApsaraVideoPlayer.Aliyunplayer.AlivcPlayerTools.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aliyunplayer/player_demo/ApsaraVideoPlayer.Aliyunplayer.player_demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Aliyunplayer/player_demo/ApsaraVideoPlayer.Aliyunplayer.player_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ApsaraVideoPlayer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ApsaraVideoPlayer.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zxing/ApsaraVideoPlayer.zxing.iml" filepath="$PROJECT_DIR$/.idea/modules/zxing/ApsaraVideoPlayer.zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApsaraAliyunVideo.iml" filepath="$PROJECT_DIR$/.idea/modules/ApsaraAliyunVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AliyunListPlayer/ApsaraAliyunVideo.AliyunListPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/AliyunListPlayer/ApsaraAliyunVideo.AliyunListPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AliyunLiveShiftPlayer/ApsaraAliyunVideo.AliyunLiveShiftPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/AliyunLiveShiftPlayer/ApsaraAliyunVideo.AliyunLiveShiftPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AliyunPlayerBase/ApsaraAliyunVideo.AliyunPlayerBase.iml" filepath="$PROJECT_DIR$/.idea/modules/AliyunPlayerBase/ApsaraAliyunVideo.AliyunPlayerBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AliyunVideoCommon/ApsaraAliyunVideo.AliyunVideoCommon.iml" filepath="$PROJECT_DIR$/.idea/modules/AliyunVideoCommon/ApsaraAliyunVideo.AliyunVideoCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aliyunplayer/ApsaraAliyunVideo.Aliyunplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/Aliyunplayer/ApsaraAliyunVideo.Aliyunplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aliyunplayer/AlivcPlayerTools/ApsaraAliyunVideo.Aliyunplayer.AlivcPlayerTools.iml" filepath="$PROJECT_DIR$/.idea/modules/Aliyunplayer/AlivcPlayerTools/ApsaraAliyunVideo.Aliyunplayer.AlivcPlayerTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aliyunplayer/player_demo/ApsaraAliyunVideo.Aliyunplayer.player_demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Aliyunplayer/player_demo/ApsaraAliyunVideo.Aliyunplayer.player_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ApsaraAliyunVideo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ApsaraAliyunVideo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zxing/ApsaraAliyunVideo.zxing.iml" filepath="$PROJECT_DIR$/.idea/modules/zxing/ApsaraAliyunVideo.zxing.iml" />
     </modules>
   </component>
 </project>
